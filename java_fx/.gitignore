@@ -1,4 +1,5 @@
 
+## Java FX ##
 .gradle
 **/build/
 !src/**/build/
