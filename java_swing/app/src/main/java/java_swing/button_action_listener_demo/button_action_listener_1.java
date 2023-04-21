@@ -1,13 +1,17 @@
-package java_swing;
-
+package java_swing.button_action_listener_demo;
 
 import javax.swing.*;
 import java.awt.event.*;
 
-public class Button_Action_Listener_1 implements ActionListener
+public class button_action_listener_1 implements ActionListener
 {
     int clicks = 0;
     JButton button;
+
+    /**
+     * Two method button action listener creation
+     * This method offers a cleaner, OOP alternative to option 2
+     */
     public JButton addButton()
     {
         button = new JButton("Add");
@@ -15,7 +19,6 @@ public class Button_Action_Listener_1 implements ActionListener
         button.addActionListener(this);
         return button;
     }
-
 
     @Override
     public void actionPerformed(ActionEvent e)
