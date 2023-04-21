@@ -1,4 +1,4 @@
-# Tutoring
+# Tutoring and Notes
 
 This repository severs as a store for all tutoring and notes material. 
 
