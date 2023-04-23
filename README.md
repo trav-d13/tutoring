@@ -20,3 +20,10 @@ Matlab's functionality
 
 Currently available topics include:
 - Spherical Cap Calculations and Exploration
+
+### Tools
+The tools directory is to share cheat-sheets and knowledge on useful tools that I have encountered and use
+regularly to make my studies, and work efficients and easier. 
+
+The tools list currently includes:
+- [Conda Virtual Environment Cheat Sheet](tools/conda_virtual_environment_cheat_sheet.pdf)
