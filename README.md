@@ -19,7 +19,17 @@ in order to build a easily accessible and varied history, on which students can 
 Matlab's functionality
 
 Currently available topics include:
-- Spherical Cap Calculations and Exploration
+- Spherical Cap Calculations and Exploration Guideline
+
+### Notebooks
+The notebooks directory is a diverse store of notebooks that allow for direct visualization and explanation of findings. 
+Current topics within notebooks include:
+- A brief overview of numerical_analysis methods. This notebook will be expanded further to encompass a set of numerical methods. 
+  - Current numerical methods included:
+    - Newton-Raphson root finding algorithm
+- Getting started with Python
+  - A notebook covering and explaining the basics of Python, including exersizes. 
+  - 
 
 ### Tools
 The tools directory is to share cheat-sheets and knowledge on useful tools that I have encountered and use
@@ -27,3 +37,5 @@ regularly to make my studies, and work efficients and easier.
 
 The tools list currently includes:
 - [Conda Virtual Environment Cheat Sheet](tools/conda_virtual_environment_cheat_sheet.pdf)
+- [Getting Started](tools/getting_started.pdf)
+  - Set of instructions to donwload and setup IntelliJ IDEA and Jupyter Notebooks on Windows, Mac, and Linux
