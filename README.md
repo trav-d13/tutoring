@@ -4,6 +4,7 @@ This repository severs as a store for all tutoring and notes material.
 
 I offer tutoring lessons at SuperProf, the link to my profile is 
 here [Travis Dawson](https://www.superprof.co.uk/java-python-matlab-tutoring-from-final-year-data-science-and-artificial-intelligence-student-learn-object-oriented-programming.html)
+Please note this repository serves as a source of information, and examples to guide and help people understand concepts. The information within this notebook is to in no way enable or support plagiarism. 
 
 ## Repository Structure
 ### Java Swing 
