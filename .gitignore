@@ -26,3 +26,4 @@ gradle-app.setting
 .xml
 .ipynb_checkpoints
 *.class
+*.iml
