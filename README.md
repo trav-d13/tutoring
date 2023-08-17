@@ -16,7 +16,7 @@ This directory serves as a selection of Java Swing demos, each coded with explic
 to help make sense of using Java Swing. 
 
 Currently available demos include:
-- Button action listener linking and action execution
+- **Button action listener linking and action execution**
 
 ### Matlab
 This directory serves to store a series of Matlab projects and tasks completed during previous tutoring sessions,
@@ -24,17 +24,20 @@ in order to build a easily accessible and varied history, on which students can 
 Matlab's functionality
 
 Currently available topics include:
-- Spherical Cap Calculations and Exploration Guideline
+- **Spherical Cap Calculations and Exploration Guideline**
 
 ### Notebooks
 The notebooks directory is a diverse store of notebooks that allow for direct visualization and explanation of findings. 
 Current topics within notebooks include:
-- A brief overview of numerical_analysis methods. This notebook will be expanded further to encompass a set of numerical methods. 
-  - Current numerical methods included:
-    - Newton-Raphson root finding algorithm
-- Getting started with Python
+- **A brief overview of numerical_analysis methods**. 
+  - This notebook will be expanded further to encompass a set of numerical methods. 
+    - Current numerical methods included:
+      - Newton-Raphson root finding algorithm
+- **Getting started with Python**
   - A notebook covering and explaining the basics of Python, including exersizes. 
-  - 
+- **Object Oriented Programming (OOP)**
+  - This notebook introduces the concept of OOP within Python through detailed explanations and multiple code examples.
+
 
 ### Tools
 The tools directory is to share cheat-sheets and knowledge on useful tools that I have encountered and use
@@ -43,7 +46,7 @@ regularly to make my studies, and work efficients and easier.
 The tools list currently includes:
 - [Conda Virtual Environment Cheat Sheet](tools/conda_virtual_environment_cheat_sheet.pdf)
 - [Getting Started](tools/getting_started.pdf)
-  - Set of instructions to donwload and setup IntelliJ IDEA and Jupyter Notebooks on Windows, Mac, and Linux
+  - Set of instructions to download and setup IntelliJ IDEA and Jupyter Notebooks on Windows, Mac, and Linux
 
 
 ### Additional Resources and Projects: 
