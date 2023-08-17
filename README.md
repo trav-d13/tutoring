@@ -7,6 +7,10 @@ here [Travis Dawson](https://www.superprof.co.uk/java-python-matlab-tutoring-fro
 Please note this repository serves as a source of information, and examples to guide and help people understand concepts. The information within this notebook is to in no way enable or support plagiarism. 
 
 ## Repository Structure
+### Exersizes
+Within this directory are sets of Python exersizes. These are to provide additional practice when going through the 
+**Getting started with Python notebook** and the **Object Oriented Programming (OOP)** notebook.
+
 ### Java Swing 
 This directory serves as a selection of Java Swing demos, each coded with explicit commenting 
 to help make sense of using Java Swing. 
@@ -40,3 +44,14 @@ The tools list currently includes:
 - [Conda Virtual Environment Cheat Sheet](tools/conda_virtual_environment_cheat_sheet.pdf)
 - [Getting Started](tools/getting_started.pdf)
   - Set of instructions to donwload and setup IntelliJ IDEA and Jupyter Notebooks on Windows, Mac, and Linux
+
+
+### Additional Resources and Projects: 
+
+#### Intro to Genetic Algorithm
+A genetic algorithm is an algorithm that copies the process of evolution to solve complex problems. It starts with 
+different solutions and leverages the process of reproduction and mutation over time to create the best solution. 
+It's like a digital puzzle solver that learns from nature's tricks to crack complex puzzles in areas like planning 
+routes and improving models.
+
+The repository can be found at the following link: [https://github.com/trav-d13/Genetic-Algorithm-Intro](https://github.com/trav-d13/Genetic-Algorithm-Intro)
