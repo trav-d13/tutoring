@@ -18,13 +18,13 @@ to help make sense of using Java Swing.
 Currently available demos include:
 - **Button action listener linking and action execution**
 
-### Matlab
-This directory serves to store a series of Matlab projects and tasks completed during previous tutoring sessions,
-in order to build a easily accessible and varied history, on which students can access and understand 
-Matlab's functionality
+### Math
+This directory serves to contain all math related documents, laying the foundations of Calculus and providing exersizes. 
+Additionally, the documents contain exersizes that make use of mathematical based algorithms and solutions to problems. 
+Including, but not limited to: 
+- Root finding algorithms including (Bisection method, secant method, etc)
+**Note:** This directory is still under development.
 
-Currently available topics include:
-- **Spherical Cap Calculations and Exploration Guideline**
 
 ### Notebooks
 The notebooks directory is a diverse store of notebooks that allow for direct visualization and explanation of findings. 
