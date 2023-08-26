@@ -38,6 +38,10 @@ Current topics within notebooks include:
 - **Object Oriented Programming (OOP)**
   - This notebook introduces the concept of OOP within Python through detailed explanations and multiple code examples.
 
+### Resources
+This directory contains resources related to varied topics which you may find interesting: 
+Contained within this directory is the following: 
+- Books and Articles Relating to the Ethics and Morality of Artificial Intelligence (AI) and Data Science
 
 ### Tools
 The tools directory is to share cheat-sheets and knowledge on useful tools that I have encountered and use
