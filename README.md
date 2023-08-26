@@ -29,10 +29,10 @@ Including, but not limited to:
 ### Notebooks
 The notebooks directory is a diverse store of notebooks that allow for direct visualization and explanation of findings. 
 Current topics within notebooks include:
-- **A brief overview of numerical_analysis methods**. 
-  - This notebook will be expanded further to encompass a set of numerical methods. 
-    - Current numerical methods included:
-      - Newton-Raphson root finding algorithm
+- **Architecture Exploration**
+  - A brief insight into the applicability of image processing methodologies into the realm of architecture.
+- **Data Collection** 
+  - A introductory, instruction, and example notebook detailing the scraping of web data using the [SerpAPI API platform](https://serpapi.com/)
 - **Getting started with Python**
   - A notebook covering and explaining the basics of Python, including exersizes. 
 - **Object Oriented Programming (OOP)**
